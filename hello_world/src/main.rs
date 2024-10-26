@@ -1,4 +1,6 @@
 fn main() {
+    /// this comment will show if you
+    /// run the command cargo doc --open
     let some_number = 100; // let me tell you
                            // about this number
                            // It's 100, this is my favorite number
